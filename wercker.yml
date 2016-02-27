@@ -4,4 +4,4 @@ build:
     - script:
       name: test
       code: |
-        make test
+        swift build
